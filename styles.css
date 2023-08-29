@@ -54,7 +54,7 @@ body {
     transition: color 1s;
   }
 
-  a.hover {
+  a:hover {
     color: blue;
 
     background-color: black;
